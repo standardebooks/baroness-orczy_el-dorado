@@ -55,9 +55,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two separate interests want to free the imprisoned Dauphin of France.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In the Scarlet Pimpernel’s fourth outing, he and his league want to free the orphaned Dauphin of France from his captors. But someone else has the same idea, although for very different, and selfish, reasons. In addition to trying to outflank his rival, the Pimpernel also has to deal with a member of his inner circle whose romance has caused him to disobey orders and put the entire plan in jeopardy. Completing his mission while once again escaping the clutches of his arch-enemy Chauvelin will push the Pimpernel to the breaking point.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1752</dc:source>
