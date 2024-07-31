@@ -62,7 +62,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1752</dc:source>
 		<dc:source>https://archive.org/details/eldoradoanadven00orczgoog</dc:source>
 		<meta property="se:production-notes">The transcription was missing most diacritics and language italics.</meta>
-		<meta property="se:word-count">123986</meta>
+		<meta property="se:word-count">123987</meta>
 		<meta property="se:reading-ease.flesch">68.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eldorado_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/baroness-orczy_el-dorado</meta>
