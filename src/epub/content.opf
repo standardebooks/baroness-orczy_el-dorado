@@ -63,7 +63,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1752</dc:source>
 		<dc:source>https://archive.org/details/eldoradoanadven00orczgoog</dc:source>
-		<meta property="schema:wordCount">123178</meta>
+		<meta property="schema:wordCount">123176</meta>
 		<meta property="schema:educationalLevel">68.2</meta>
 		<link href="https://en.wikipedia.org/wiki/Eldorado_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
